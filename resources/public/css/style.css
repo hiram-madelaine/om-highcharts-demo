@@ -1,2 +1,11 @@
 /* some style */
 
+
+#show {
+    display: flex;
+}
+
+.svg {
+
+    border: 1px solid black;
+}
